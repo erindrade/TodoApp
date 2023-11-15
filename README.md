@@ -42,8 +42,14 @@ Make sure you have the following installed:
   npm install
 
 5.Usage
+
+
   1.Start the Todo app:
   npm start
+
+  
   2.Open your browser and visit http://localhost:3000.
+
+  
   3.Add, complete, and remove tasks as needed.  
 
