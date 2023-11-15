@@ -11,8 +11,6 @@ A simple Todo app to help you organize your tasks and stay productive.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
