@@ -15,7 +15,6 @@ A simple Todo app to help you organize your tasks and stay productive.
 ## Features
 
 - Add tasks to your todo list.
-- Mark tasks as complete.
 - Remove tasks from the list.
 - Simple and intuitive user interface.
 
