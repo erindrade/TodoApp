@@ -7,7 +7,7 @@ A simple Todo app to help you organize your tasks and stay productive.
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
+  - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -16,6 +16,7 @@ A simple Todo app to help you organize your tasks and stay productive.
 
 - Add tasks to your todo list.
 - Remove tasks from the list.
+- Rewrite tasks after a mistake.
 - Simple and intuitive user interface.
 
 ## Getting Started
